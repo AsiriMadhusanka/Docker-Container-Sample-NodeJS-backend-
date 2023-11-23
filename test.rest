@@ -1,0 +1,15 @@
+###
+ GET http://localhost:13000/setup
+
+###
+POST http://localhost:13000/
+Content-Type: application/json
+
+{
+    "name": "james",
+    "location": "HELLO World"
+}
+
+
+### video
+# https://www.youtube.com/watch?v=sDPw2Yp4JwE&list=PLT4F7-qN3XVHJ84fGi6GzPNy4bZAUSivd&index=3
